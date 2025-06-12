@@ -9,8 +9,10 @@ BOM:
 - 1x Pushbutton
 - 1x Mini motor disk
 
-Breadboard
+**Slack Username: Victor**
 
-PCB
+![Schematic](https://github.com/BigBrain244466666/TurtleBoard/blob/main/TurtleBoard/Images/Screenshot%202025-06-12%20084336.png)
 
-3D View
+![PCB](https://github.com/BigBrain244466666/TurtleBoard/blob/main/TurtleBoard/Images/Screenshot%202025-06-12%20084308.png)
+
+![3D View](https://github.com/BigBrain244466666/TurtleBoard/blob/main/TurtleBoard/Images/Screenshot%202025-06-12%20084358.png)
